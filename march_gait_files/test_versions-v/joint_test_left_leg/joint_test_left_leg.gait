@@ -1,0 +1,5 @@
+name: joint_test_left_leg
+
+graph:
+  from subgait: [start, left_knee, left_hip, left_leg_straight, left_ankle, left_hip_aa]
+  to subgait:   [left_knee, left_hip, left_leg_straight, left_ankle, left_hip_aa, end]

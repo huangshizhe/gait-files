@@ -6,3 +6,9 @@ gaits:
   rough_terrain_high_step: {right_open: MV_RT_highstep_rightopen_v2, left_close: MV_RT_highstep_leftclose_v2}
   rough_terrain_middle_steps: {right_open: MV_RT_middlestep_rightopen_v1, left_swing: MV_RT_middlestep_leftswing_v1,
                                right_swing: MV_RT_middlestep_rightswing_v1, left_close: MV_RT_middlestep_leftclose_v1}
+  joint_test_both_legs: {both_knees: both_knees_v1, both_hips: both_hips_v1, both_legs_straight: both_legs_straight_v1,
+                         both_ankles: both_ankles_v1, both_hips_aa: both_hips_aa_v1}
+  joint_test_left_leg: {left_knee: left_knee_v1, left_hip: left_hip_v1, left_leg_straight: left_leg_straight_v1,
+                        left_ankle: left_ankle_v1, left_hip_aa: left_hip_aa_v1}
+  joint_test_right_leg: {right_knee: right_knee_v1, right_hip: right_hip_v1, right_leg_straight: right_leg_straight_v1,
+                         right_ankle: right_ankle_v1, right_hip_aa: right_hip_aa_v1}
