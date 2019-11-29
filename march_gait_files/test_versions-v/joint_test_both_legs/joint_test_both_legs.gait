@@ -1,5 +1,5 @@
 name: joint_test_both_legs
 
 graph:
-  from subgait: [start, both_knees, both_hips, both_legs_straight, both_ankles, both_hips_aa]
-  to subgait:   [both_knees, both_hips, both_legs_straight, both_ankles, both_hips_aa, end]
+  from_subgait: [start, both_knees, both_hips, both_legs_straight, both_ankles, both_hips_aa]
+  to_subgait:   [both_knees, both_hips, both_legs_straight, both_ankles, both_hips_aa, end]
